@@ -1,0 +1,13 @@
+{
+  "name": "GeoAnonymiser",
+  "version": "1.0",
+  "description": "Anonymises names and avatars for Geoguessr Battle Royale",
+  "content_scripts": [
+    {
+      "matches": ["https://www.geoguessr.com/battle-royale/*"],
+      "js": ["inject.js"],
+      "run_at": "document_end"
+    }
+  ],
+  "manifest_version": 2
+}
