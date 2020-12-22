@@ -1,6 +1,6 @@
 {
   "name": "GeoAnonymiser",
-  "version": "1.0",
+  "version": "1.1",
   "description": "Anonymises names and avatars for Geoguessr Battle Royale",
   "content_scripts": [
     {
