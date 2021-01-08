@@ -1,3 +1,5 @@
+# Not currently working due to a GeoGuessr update
+
 # GeoAnonymiser
 Quick and dirty Chrome Extension that anonymises names and avatars for Geoguessr Battle Royale until the developers add a streamer mode.
 
